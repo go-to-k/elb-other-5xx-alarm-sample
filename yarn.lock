@@ -1099,10 +1099,10 @@ diff@^4.0.1:
   resolved "https://registry.yarnpkg.com/diff/-/diff-4.0.2.tgz#60f3aecb89d5fae520c11aa19efc2bb982aade7d"
   integrity sha512-58lmxKSA4BNyLz+HHMUzlOEpg09FV+ev6ZMe3vJihgdxzgcwZ8VoEEPmALCZG9LmqfVoNMMKpttIYTVG6uDY7A==
 
-elb-other-5xx-alarm@1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/elb-other-5xx-alarm/-/elb-other-5xx-alarm-1.0.6.tgz#ce315b4879c1baca022695656debb3c3d032e3df"
-  integrity sha512-v0l92N3sAf0OcFKUmzMe7zU7vHb9psxlt3/1EQS6Zl1XBO8AOVrsiGf/FxVRGxJ/4JVPcZvX+37F/n32IGSFnA==
+elb-other-5xx-alarm@1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/elb-other-5xx-alarm/-/elb-other-5xx-alarm-1.0.7.tgz#743df4b6ecdd1d206d5c3cc389cd035f4fc90704"
+  integrity sha512-2MYpg4xDmugjR/6JrIuHmAsR0U4A6GFy4CkaUZOF2MUpl+Z3ajCMCJ8HMZVnPZi+gJr7G4VpyRyCSDEM9WMyIQ==
 
 electron-to-chromium@^1.4.411:
   version "1.4.419"
